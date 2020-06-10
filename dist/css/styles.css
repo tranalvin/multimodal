@@ -10344,9 +10344,6 @@ header.masthead .masthead-heading {
   border-right-width: 14px;
   border-left-width: 0;
 }
-.timeline > li:last-child {
-  margin-bottom: 0;
-}
 .timeline .timeline-heading h4 {
   margin-top: 0;
   color: inherit;
@@ -10374,7 +10371,7 @@ header.masthead .masthead-heading {
     text-align: right;
   }
   .timeline > li .timeline-image {
-    left: 75%;
+    left: 70%;
     width: 100px;
     height: 100px;
     margin-left: -50px;
@@ -10398,7 +10395,7 @@ header.masthead .masthead-heading {
     padding: 0 20px 20px;
   }
   .timeline > li .timeline-image {
-    width: 150px;
+    width: 265px;
     height: 150px;
     margin-left: -75px;
   }
