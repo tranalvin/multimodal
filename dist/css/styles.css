@@ -10317,10 +10317,6 @@ header.masthead .masthead-heading {
   height: 80px;
   margin-left: 0;
   text-align: center;
-  color: white;
-  border: 7px solid #e9ecef;
-  border-radius: 100%;
-  background-color: #fed136;
 }
 .timeline > li .timeline-image h4 {
   font-size: 10px;
